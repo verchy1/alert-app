@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "orsealert",
+    "orsealerte": "orsealert-a36f4"
+  },
+  "targets": {},
+  "etags": {}
+}

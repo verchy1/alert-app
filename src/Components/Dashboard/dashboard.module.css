@@ -1,0 +1,20 @@
+.menuItem {
+transition: background-color 0.3s; /* Pour une transition douce */
+border-radius: 10px;
+cursor: pointer;
+color: white;
+text-decoration: none;
+}
+  
+.menuItem:hover {
+background-color: white; /* Change la couleur de fond en blanc */
+color: black; /* Change la couleur du texte en noir pour plus de contraste */
+}
+
+
+.active{
+background-color: white; /* Change la couleur de fond en blanc */
+color: black; /* Change la couleur du texte en noir pour plus de contraste */
+}
+
+  
